@@ -16,6 +16,3 @@ The work integrates **real-world sensor data** with advanced ML models to analyz
 
 ## Tools & Libraries
 Python, Pandas, NumPy, scikit-learn, TensorFlow, Keras, Matplotlib  
-
-## Thesis
-The full thesis can be found here: [Thesis.pdf](./Thesis.pdf)  
